@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "node-telegram-bot-api": "^0.30.0",
-    "telegram-node-bot": "^4.0.5"
+    "telegram-node-bot": "^4.0.5",
+    "weather-js": "^2.0.0"
   }
 }
